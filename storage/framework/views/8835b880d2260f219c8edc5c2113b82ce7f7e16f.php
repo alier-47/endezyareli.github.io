@@ -1,0 +1,2 @@
+<body data-topbar="dark">
+<?php /**PATH C:\Users\endezyareli\Downloads\dason-laravel-admin-dashboard-template-2022-06-04-05-40-33-utc\Dason-Laravel_v1.0.0\Admin\resources\views/layouts/body.blade.php ENDPATH**/ ?>
